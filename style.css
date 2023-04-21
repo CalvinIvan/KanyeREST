@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+    color: #A18167;
+}
+
+
+#quotes {
+    display: flex;
+    justify-content: center;
+}
+
+.button:hover {
+    cursor: pointer;
+    transform: scale(.95);
+    justify-content: center;
+}
+
